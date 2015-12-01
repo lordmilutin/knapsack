@@ -1,0 +1,28 @@
+C:\Users\Stefan Simonovic\Desktop\VS\C++\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe.config
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe.config
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.pdb
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.csprojResolveAssemblyReference.cache
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.Form1.resources
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.Properties.Resources.resources
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.csproj.GenerateResource.Cache
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.exe
+C:\Users\Stefan Simonovic\Desktop\VS\C#\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.pdb
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe.config
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.exe
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.pdb
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.pdb
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.csprojResolveAssemblyReference.cache
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.Form1.resources
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.Properties.Resources.resources
+C:\Stefan!\Fakultet\IV godina\Zastita informacija\Lab vezbe\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.csproj.GenerateResource.Cache
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe.config
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.exe
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.pdb
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.exe
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\bin\Debug\Lab3Knapsack.pdb
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.csprojResolveAssemblyReference.cache
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.Form1.resources
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.Properties.Resources.resources
+D:\FAX\IV Godina\Zastita Informacija\Lab\Lab3Knapsack\Lab3Knapsack\obj\Debug\Lab3Knapsack.csproj.GenerateResource.Cache
